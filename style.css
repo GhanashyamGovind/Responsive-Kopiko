@@ -9,7 +9,7 @@ body{
     color: #b7b7b7;
     font-size: 110%;
 }
-.kpk-h1:hover{
+.kpk-h1 a:hover{
     color: #db4f3d;
 }
 .kpk-para{
